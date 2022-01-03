@@ -1,5 +1,6 @@
 # DiscordRconControl
-Control game servers through discord using valve's rcon protocol
+Control game servers through discord using valve's rcon protocol.
+This is more of a proof of concept, not a compeletely done discord bot.
 
 # Installation
 1. Replace your game servers' info in main.js
